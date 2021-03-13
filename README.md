@@ -2,6 +2,7 @@
 Logo LetJson
 
 
+## Font
 
 Font in use <a target="_blank" href="https://fonts.google.com/specimen/Neuton">Neuton-Bold</a> designed by
 <a target="_blank" href="https://brianskywalker.deviantart.com/">Brian Zick</a>
@@ -11,18 +12,28 @@ and licensed under
   <a target="_blank" href="https://thenounproject.com/tkirby">Kirby Wu</a>
 
 
+# Colors
 
-Font
-#7D7D7D, #352F90
-+
+## Font
 
-Slogan
-#000000
-+
+    #7D7D7D, #352F90
 
-Background
-transparent
-✕
+## Background
+    
+    transparent
 
-Icon
-#352F90, #7D7D7D
+## Icon
+
+    #352F90, #7D7D7D
+
+
+# Logo
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
+
+## 3
+![3/cover.png](3/cover.png)
