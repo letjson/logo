@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Neuton-Bold
+font link: https://fonts.google.com/specimen/Neuton
+font author: Brian Zick
+font author site: https://brianskywalker.deviantart.com/
+
+
+icon designer: Kirby Wu
+icon designer link: /tkirby
+        
+
+fontColor: {"gradient-0":"#352F90","gradient-1":"#7D7D7D"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#352F90","gradient-1":"#7D7D7D"}
+
+      
